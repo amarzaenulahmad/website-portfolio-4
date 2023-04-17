@@ -64,7 +64,7 @@ ScrollReveal().reveal('.home .home-content p, .about .about-content', { origin: 
 
 // Typed Js
 const typed = new Typed('.home .home-content h3 .multiple-text', {
-  strings: ['Front-End Web Developer', 'Photography'],
+  strings: ['Front-End Web Developer', 'Photographer'],
   typeSpeed: 100,
   backSpeed: 100,
   backDelay: 1000,

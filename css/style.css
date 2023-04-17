@@ -416,6 +416,10 @@ section {
   font-size: 1.6rem;
 }
 
+.footer .footer-text p a {
+  color: var(--text-color);
+}
+
 .footer .footer-iconsTop a {
   display: inline-flex;
   justify-content: center;
