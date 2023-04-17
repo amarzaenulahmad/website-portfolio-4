@@ -573,11 +573,11 @@ section {
 
 @media (max-width: 365px) {
   /* Home section */
-  .home .home-img {
+  .home .home-img img {
     width: 90vw;
   }
   /* About section */
-  .about .about-img {
+  .about .about-img img {
     width: 90vw;
   }
 
